@@ -5,7 +5,8 @@
   "author": "mizanmahi <mizanmahi24@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
   "dependencies": {
     "axios": "^0.24.0",
